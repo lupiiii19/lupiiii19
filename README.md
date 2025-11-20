@@ -18,6 +18,7 @@ Aspiring Data Analyst | Power BI | Alteryx | Python | Data Cleaning & Preprocess
 ## 📂 Featured Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
+| **Personalized Mental Health Recommendation System** | A machine learning–based system that recommends mental health resources tailored to individual user profiles and symptoms | Python, Scikit-learn, NLP, Flask |
 | **Sales Analytics Dashboard** | End-to-end pipeline from raw CSV to BI Dashboard | Power BI + Python |
 | **Customer Segmentation** | Clustering & data preprocessing for marketing insights | Python |
 | **Data Cleaning Automation** | Alteryx workflow for cleaning raw transactional data | Alteryx |
@@ -25,7 +26,7 @@ Aspiring Data Analyst | Power BI | Alteryx | Python | Data Cleaning & Preprocess
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
-- **GitHub Portfolio:** https://github.com/yourusername  
-- **Email:** yourname@gmail.com
+- **LinkedIn:** www.linkedin.com/in/luthfi-hassan  
+- **GitHub Portfolio:** https://github.com/lupiiii19  
+- **Email:** luthfihassan02@gmail.com
 
