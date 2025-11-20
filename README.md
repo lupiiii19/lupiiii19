@@ -19,9 +19,6 @@ Aspiring Data Analyst | Power BI | Alteryx | Python | Data Cleaning & Preprocess
 | Project | Description | Tools |
 |--------|-------------|-------|
 | **Personalized Mental Health Recommendation System** | A machine learning–based system that recommends mental health resources tailored to individual user profiles and symptoms | Python, Scikit-learn, NLP, Flask |
-| **Sales Analytics Dashboard** | End-to-end pipeline from raw CSV to BI Dashboard | Power BI + Python |
-| **Customer Segmentation** | Clustering & data preprocessing for marketing insights | Python |
-| **Data Cleaning Automation** | Alteryx workflow for cleaning raw transactional data | Alteryx |
 
 ---
 
